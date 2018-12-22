@@ -313,7 +313,7 @@ MONTESINOS, I. S., SERENO, J. R. B., SILVA, M. C., **LOPES, F. B.**, McMANUS, C.
 M. Morphometric evaluation of ewes from the Humedales de Itu (Peru). *Archivos
 de Zootecnia* (*in press*).
 
-LOPES, F. B., WU, X.L., LI, H., XU, J., PERKINS, T., GENHO, J., FERRETTI, R.,
+**LOPES, F. B.**, WU, X.L., LI, H., XU, J., PERKINS, T., GENHO, J., FERRETTI, R.,
 TAIT JR., R. G., BAUCK, S., ROSA, G. J. M. Improving accuracy of genomic
 prediction in Brangus cattle by adding animals with imputed low-density SNP
 genotypes. *Journal of Animal Breeding and Genetics*, v. 135, p. 14-27, 2018.
@@ -588,8 +588,7 @@ test at pasture using random regression model. *SpringerPlus*, v.1, p.49, 2012.
 FLORENTINO, C. M., MARIANI, A. C. B., SOUZA, J. F., DIAS, F. E. F., SANTOS, H.
 D., CASTRO, A. A. P., LIMA. A. K F., **LOPES, F. B**., CAVALCANTE, T. V.,
 WISCHRAL, A. The influence of receptor cows day of estrus manifestation on
-pregnancy rate at legal amazon. *Journal of Animal Science Advances*, v.2, p.865
-- 872, 2012.
+pregnancy rate at legal amazon. *Journal of Animal Science Advances*, v.2, p.865-872, 2012.
 
 NEPOMUCENO, L. L., ANDRADE, R. J., **LOPES, F. B**., SANTOS, G. C. J., VIEIRA,
 L. F., PEREIRA, L. S., LIRA, T. S., FERREIRA, J. L. Genetic and environmental
@@ -664,7 +663,7 @@ LOPES, F. B. **Spatialization of States and municipalities of Brazil using
 multivariate statistics**. Technical series. Brasilia - DF: INCT, Brazil, 2011.
 
 SILVA, M. C., McMANUS, C. M., SERENO, J. R. B., CASTRO, S., FIORAVANTI, M.C.S.,
-**LOPES, F. B.,** VAZ, C., SEIXAS, L. **Crioula Lanada**. Technical series.
+LOPES, F. B., VAZ, C., SEIXAS, L. **Crioula Lanada**. Technical series.
 Brasilia, DF: INCT, Brazil, 2010.
 
 &nbsp;
@@ -721,7 +720,7 @@ polled Nellore cattle. CNPq/EMBRAPA, Nov 2009 - Oct 2012, R\$ 149,082.64.
     weights at age 120 and 210 days in a Nellore herd from Embrapa Cerrados.
     2011. Undergraduate in Zootechny - State University of Goias - UEG.
 
--   RAFAEL PEDRO ZENY (BS). Biotecnologias da reprodução animal. 2008.
+-   RAFAEL PEDRO ZENY (BS). Biotecnologias da reproducao animal. 2008.
     Undergraduate in Animal Science - Universidade Federal do Tocantins - UFT.
 
 -   RONILDO PORTO DA SILVA (BS). National Program for Family Farming (PRONAF): A
@@ -777,8 +776,8 @@ polled Nellore cattle. CNPq/EMBRAPA, Nov 2009 - Oct 2012, R\$ 149,082.64.
     Zebuine cattle using in vivo and post morten measures: meta-analyses. Animal
     Science Post-Graduation Program - PhD - Federal University of Goias. 2017.
 
--   FILIPE CHAGAS TEODOZIO DE ARAUJO. Estudo de (co)variâncias e tendência
-    genética e fenotipica em caracteristicas produtivas e reprodutivas em
+-   FILIPE CHAGAS TEODOZIO DE ARAUJO. Estudo de (co)variancias e tendencia
+    genetica e fenotipica em caracteristicas produtivas e reprodutivas em
     bovinos da raca Brahman. 2016. Animal Science Post-Graduation Program -
     Federal University of Alagoas.
 
@@ -860,8 +859,7 @@ polled Nellore cattle. CNPq/EMBRAPA, Nov 2009 - Oct 2012, R\$ 149,082.64.
 
 **ABSTRACTS (proceedings)**
 
-Published 12 papers as a first author and 58 papers as co-author (The 70 papers
-can be visualized at: http://lattes.cnpq.br/1399785191420919).
+Others publication can be visualized at: <http://lattes.cnpq.br/1399785191420919>.
 
 &nbsp;
 
