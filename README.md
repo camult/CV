@@ -2,19 +2,17 @@
 
 *Researcher in Quantitative Genetics and Genomics*
 
+&nbsp;
 
-
-**Address:** Brazilian Agricultural Research Corporation (Embrapa)
-
+**Address:** Brazilian Agricultural Research Corporation (Embrapa) 
 km 12 - Zona Rural GO-462
-
 Santo Antonio de Goias - GO, 75375-000, Brazil
 
 **Mobile Phone:** +55 (62) 99242-8390
 
 **E-mail:** <camult@gmail.com>
 
-
+&nbsp;
 
 **RESEARCH INTERESTS**
 
@@ -26,7 +24,7 @@ Santo Antonio de Goias - GO, 75375-000, Brazil
 
 -   Statistical Genomics
 
-
+&nbsp;
 
 **PROFESSIONAL EMPLOYMENT**
 
@@ -55,7 +53,7 @@ Santo Antonio de Goias - GO, 75375-000, Brazil
 -   **Lecturer**, Department of Animal Science, Federal University of Tocantins
     (UFT), Araguaina, TO, Brazil (2007 - 2008)
     
-    
+&nbsp;
 
 **ACADEMIC DEGREES**
 
@@ -68,7 +66,7 @@ Santo Antonio de Goias - GO, 75375-000, Brazil
 -   **PhD**, Animal Science, Federal University of Goias (UFG), Goiania, GO,
     Brazil, August 2011.
 
-
+&nbsp;
 
 **RESEARCH EXPERIENCE**
 
@@ -190,7 +188,7 @@ project. Different levels of technification are established in order to
 understand and develop proper technology and also to develop farm level
 interventions.
 
-
+&nbsp;
 
 **TEACHING EXPERIENCE**
 
@@ -259,7 +257,7 @@ interventions.
 
 >   *Physics*
 
-
+&nbsp;
 
 **SHORT COURSES GIVEN**
 
@@ -293,7 +291,7 @@ University of Tocantins, Araguaina, TO, Brazil, 2011.
 LOPES, F. B. and CAVALCANTE, T. V. **Research report on libido investigation in
 Santa Ines rams.** Federal University of Tocantins, Araguaina, TO, Brazil, 2006.
 
-
+&nbsp;
 
 **PUBLICATIONS**
 
@@ -312,7 +310,7 @@ transportation on the frequency of cattle carcass injuries in Para, Brazil.
 *Archives of Veterinary Science* (*in press*).
 
 MONTESINOS, I. S., SERENO, J. R. B., SILVA, M. C., **LOPES, F. B.**, McMANUS, C.
-M. Morphometric evaluation of ewes from the Humedales de Ité (Peru). *Archivos
+M. Morphometric evaluation of ewes from the Humedales de Itu (Peru). *Archivos
 de Zootecnia* (*in press*).
 
 LOPES, F. B., WU, X.L., LI, H., XU, J., PERKINS, T., GENHO, J., FERRETTI, R.,
@@ -347,12 +345,12 @@ tenderness in polled Nellore cattle. *Journal of Animal Science*. 95:1945-1956,
 
 FERREIRA, J. L., BRESOLIN, T., **LOPES, F. B**., GARCIA, J. A. S., NEPOMUCENO,
 L. L., SCHMIDT, A. B., LOBO, R.B. Random regression models for growth trait in
-Guzerá cattle. *Ciência Animal Brasileira*, v. 18, p. 1-12, 2017.
+Guzerá cattle. *Ciencia Animal Brasileira*, v. 18, p. 1-12, 2017.
 
 FERREIRA, J. L., **LOPES, F. B**., GARCIA, J. A. S., SILVA, M. P. B.,
 NEPOMUCENO, L. L., MARQUES, E. G., SILVA, M. C. Climate spatialization and
 genotype-environment interaction effects on weaning weights of Nellore cattle in
-extensive systems in tropical regions of brazil. *Ciência Animal Brasileira*, v.
+extensive systems in tropical regions of brazil. *Ciencia Animal Brasileira*, v.
 18, p. 1-13, 2017.
 
 **LOPES, F. B.**, SILVA, M. C., MAGNABOSCO, C. U., SAINZ, R. D. Selection
@@ -378,7 +376,7 @@ Inbreeding effect on pre-weaning weight in polled Nellore cattle raised on
 pasture in the Cerrado biome. *Archivos de Zootecnia*, v. 65, p. 177-182, 2016.
 
 SOUZA, F. M., LEMOS, B. J. M., OLIVEIRA JUNIOR, R. C., MAGNABOSCO, C. U.,
-CASTRO, L. M., **LOPES, F. B.**, BRUNES, L. C. Introdução de leguminosas
+CASTRO, L. M., **LOPES, F. B.**, BRUNES, L. C. Introducao de leguminosas
 forrageiras, calagem e fosfatagem em pastagem degradada de Brachiaria brizantha.
 *Brazilian Journal of Animal Health and Production*, v. 17, p. 355-364, 2016.
 
@@ -453,13 +451,13 @@ post-weaning weights in polled Nellore cattle. *Revista Cientifica Rural*, v.
 
 FERREIRA, J. L., **LOPES, F. B**., ASSIS, A. S., LOBO, R. B. Climate
 spatialization and longitudinal data analysis of Nellore cattle raised in the
-states of Maranhão, Pará and Tocantins using univariate and multivariate
+states of Maranhao, Para and Tocantins using univariate and multivariate
 approaches. *Semina. Ciencias Agrarias*, v.35, p. 2197-2210, 2014.
 
 FERREIRA, J. L., **LOPES, F. B.**, EVERLING, D. M., BARBOSA, S. M., SILVA, M.
 C., LIRA, T. S., FEREIRA, L. S. Impact of heterogeneity of residual variance on
 genetic estimates of Nellore cattle from the amazon biome. *Revista Brasileira
-de Saúde e Produção Animal*, v.15, p.281 - 288, 2014.
+de Saude e Producao Animal*, v.15, p.281 - 288, 2014.
 
 PAUSE, A. G. S., FRANCA, A. F. S., MIYAGI, E. S., DAMBROS, C. E., **LOPES, F.
 B**. Efficiency of nitrogen and phosphate fertilization on pearl millet
@@ -473,7 +471,7 @@ p.840 - 851, 2014.
 FERREIRA, J. L., **LOPES, F. B**., MARQUES, E. G., SILVA, M. C., ASSIS, A. S.,
 PEREIRA L. S., NEPOMUCENO, L. L. Quantitative genetic study at production traits
 of Nellore cattle raised in Northern, Brazil. *Revista Brasileira de Medicina
-Veterinária*, v. 36, p. 11-17, 2014.
+Veterinaria*, v. 36, p. 11-17, 2014.
 
 **LOPES, F. B**., SILVA, M. C., MIYAGI, E. S., FIORAVANTI, M. C. S., FACO, O.,
 McMANUS, C. M. Comparison of selection indexes for dairy goats in the tropics.
@@ -501,7 +499,7 @@ understand livestock conservation. *Enciclopedia Biosfera*, v.9, p.1 - 24, 2013.
 
 LIRA, T. S., FERREIRA, J., **LOPES, F. B.**, PEREIRA, L. S., FERREIRA, J. L.
 FERREIRA, J. L., LOBO, R. B., SANTOS, G. C. J. Genetic trends for growth traits
-in Nellore cattle raised in the humid tropical region of Brazil. *Ciência Animal
+in Nellore cattle raised in the humid tropical region of Brazil. *Ciencia Animal
 Brasileira*, v.14, p.23 - 31, 2013.
 
 SILVA, M. C., **LOPES, F. B**., VAZ, C. M. S., PAULINI, F., MONTESINOS, I. S.,
@@ -511,8 +509,8 @@ Crioula Lanada ewes in southern brazil. *Small Ruminant Research*, v.110, p.15 -
 
 NEPOMUCENO, L. L., LIRA, T. S., **LOPES, F. B.**, LOBO, R. B., FERREIRA, J. L.
 Genotype-environment interaction for maternal effect traits in Nellore cattle
-from Maranhão, Mato Grosso and Pará states. *Revista Brasileira de Saúde e
-Produção Animal*, v.14, p.269 - 276, 2013.
+from Maranhao, Mato Grosso and Para states. *Revista Brasileira de Saude e
+Producao Animal*, v.14, p.269 - 276, 2013.
 
 **LOPES, F. B.**, MAGNABOSCO, C. U., PAULINI, F., MIYAGI, E. S., SILVA, M. C.,
 LOBO, R.B. Genetic analysis of growth traits in polled Nellore cattle raised on
@@ -531,12 +529,12 @@ v.4, p.224 - 230, 2013.
 
 SOLANO, G. A., SILVA, M. C., ROCHA, F. E. C., SILVA, D. C., **LOPES, F. B.**,
 FIORAVANTI, MARIA C. S., SERENO, J. R. B. Conservation issues for the
-traditional Campeiro horse breed in southern Brazil based on farmers´ speech
+traditional Campeiro horse breed in southern Brazil based on farmers speech
 analysis. *Actas Iberoamericanas de Conservación Animal*, v. 3,8-14, 2013.
 
 LIRA, T. S., PEREIRA, L. S., NEPOMUCENO, L. L., ALEXANDRINO, E., **LOPES, F.
 B**., LOBO, R. B. Genotype-environment interaction of post-weaning weights in
-Nellore from Maranhão, Mato Grosso and Pará states. *Acta Veterinaria
+Nellore from Maranhao, Mato Grosso and Para states. *Acta Veterinaria
 Brasilica*, v.7, p.282 - 287, 2013.
 
 MAGNABOSCO, C. U., **LOPES, F. B**., MAMEDE, M. M. S., SAINZ, R. D. The use of
@@ -556,8 +554,8 @@ v.11, p.169 - 178, 2013.
 
 SILVA, M. C., FIORAVANTI, M. C. S., SOLANO, G. A., SILVA, D. C., ISKANDAR, G.
 R., MOURA, M. I., ROCHA, F. E. C. R., **LOPES, F. B**., SERENO, J. R. B. Content
-analysis during a meeting to officialy recognize the traditional Curraleiro Pé
-Duro cattle breed in Brazil. *Actas Iberoamericanas de Conservacion Animal*, v.
+analysis during a meeting to officialy recognize the traditional Curraleiro Pe-Duro
+cattle breed in Brazil. *Actas Iberoamericanas de Conservacion Animal*, v.
 3, p. 188-193, 2013.
 
 **LOPES, F. B.,** SANTOS, G. C. J., SILVA, M. C., MARQUES, E. G., FERREIRA, J.
@@ -595,7 +593,7 @@ pregnancy rate at legal amazon. *Journal of Animal Science Advances*, v.2, p.865
 
 NEPOMUCENO, L. L., ANDRADE, R. J., **LOPES, F. B**., SANTOS, G. C. J., VIEIRA,
 L. F., PEREIRA, L. S., LIRA, T. S., FERREIRA, J. L. Genetic and environmental
-effects on productive traits of Nellore cattl*e* raised in northern Tocantins,
+effects on productive traits of Nellore cattle raised in northern Tocantins,
 Brazil. *Revista Academica: Ciencias Agrarias e Ambientais*, v.10, p.373 - 382,
 2012.
 
@@ -608,7 +606,7 @@ southern Peru: preliminar data. *Archivos de Zootecnia*, v.61, p.505 - 515,
 GUIMARAES, R. F., JUNIOR, C., OSMAR A., McMANUS, C. M. Spatialization of
 climate, physical and socioeconomic factors that affect the dairy goat
 production in Brazil and their impact on animal breeding decisions. *Pesquisa
-Veterinária Brasileira*, v.32, p.1073 - 1081, 2012.
+Veterinaria Brasileira*, v.32, p.1073 - 1081, 2012.
 
 NEPOMUCENO, L. L., ANDRADE, R. J., **LOPES, F. B**., SANTOS, G. C. J., VIEIRA,
 L. F., PEREIRA, L. S., LIRA, T. S., FERREIRA, J. L. Genetic association between
@@ -626,7 +624,7 @@ growth curves of Nellore cattle from northern brazil. *Revista Brasileira de
 Saude e Producao Animal*, v.12, p. 607 - 617, 2011.
 
 SANTOS, G. C. J, LIRA, T. S., PEREIRA, L. S., **LOPES, F. B.,** FERREIRA, J. L.
-Non-genetic effects on productive traits in Nellore cattle from northern brazil.
+Non-genetic effects on productive traits in Nellore cattle from northern Brazil.
 *Acta Veterinaria Brasilica*, v.5, p.385 - 392, 2011.
 
 JUNIOR, L. M. A., MORORO, D. L., SILVA, A. G., MANESCHY, R. Q., **LOPES, F. B**.
@@ -652,7 +650,7 @@ Economic analysis of the nutritional and sanitary management on sheep breeding
 in farms from the southern region of Tocantins state. *Revista Caatinga*, v.21,
 p.43 - 50, 2008.
 
-
+&nbsp;
 
 **OTHER PUBLICATIONS**
 
@@ -669,7 +667,7 @@ SILVA, M. C., McMANUS, C. M., SERENO, J. R. B., CASTRO, S., FIORAVANTI, M.C.S.,
 **LOPES, F. B.,** VAZ, C., SEIXAS, L. **Crioula Lanada**. Technical series.
 Brasilia, DF: INCT, Brazil, 2010.
 
-
+&nbsp;
 
 **SEMINARS GIVEN**
 
@@ -683,7 +681,7 @@ Brasilia, DF: INCT, Brazil, 2010.
 -   *Genomic prediction of meat tenderness using Bayesian regression models*.
     Department of Animal Sciences, UW-Madison, March 3th, 2015.
 
-
+&nbsp;
 
 **FUNDED PROJECTS**
 
@@ -710,7 +708,7 @@ MAGNABOSCO, C. U., **LOPES, B. F.,** REGITANO, L. C. A., ROSA, G. J. M., SAINZ
 R. D., et. al. Genetic characterization and selection for meat tenderness in
 polled Nellore cattle. CNPq/EMBRAPA, Nov 2009 - Oct 2012, R\$ 149,082.64.
 
-
+&nbsp;
 
 **UNDERGRADUATE STUDENT COMMITTEES**
 
@@ -746,7 +744,7 @@ polled Nellore cattle. CNPq/EMBRAPA, Nov 2009 - Oct 2012, R\$ 149,082.64.
     replacement strategies.in breeding programs. 2007. Undergraduate in Animal
     Science - Federal University of Tocantins - UFT.
 
-
+&nbsp;
 
 **GRADUATE STUDENT COMMITTEES**
 
@@ -769,7 +767,7 @@ polled Nellore cattle. CNPq/EMBRAPA, Nov 2009 - Oct 2012, R\$ 149,082.64.
     States of Maranhão, Mato Grosso, Para, Rondônia and Tocantins. 2011.
     Undergraduate in Medicine Veterinary - Federal University of Tocantins - UFT.
 
-
+&nbsp;
 
 **STUDENT SUPERVISIONS (concluded)**
 
@@ -814,7 +812,7 @@ polled Nellore cattle. CNPq/EMBRAPA, Nov 2009 - Oct 2012, R\$ 149,082.64.
     Nellore Cattle. 2012. Animal Science Post-Graduation Program - PhD - Federal
     University of Goias.
 
-
+&nbsp;
 
 **PARTICIPATION IN SCIENTIFIC AND TECHNICAL EVENTS**
 
@@ -848,7 +846,7 @@ polled Nellore cattle. CNPq/EMBRAPA, Nov 2009 - Oct 2012, R\$ 149,082.64.
     Post-Graduation Forum; 1st Extension and Research Unified Meeting in
     Tocantins - 2004.
 
-
+&nbsp;
 
 **ORGANIZATION OF SCIENTIFIC OR TECHNICAL EVENTS**
 
@@ -858,14 +856,14 @@ polled Nellore cattle. CNPq/EMBRAPA, Nov 2009 - Oct 2012, R\$ 149,082.64.
 -   Workshop on Genetic Improvement for Bio-economic Sustainability in the
     Brazilian Cerrado Ecosystem. 2011.
 
-
+&nbsp;
 
 **ABSTRACTS (proceedings)**
 
 Published 12 papers as a first author and 58 papers as co-author (The 70 papers
 can be visualized at: http://lattes.cnpq.br/1399785191420919).
 
-
+&nbsp;
 
 **ORAL PRESENTATIONS**
 
@@ -886,7 +884,7 @@ can be visualized at: http://lattes.cnpq.br/1399785191420919).
     Tocantins, Brazil*. 2nd Scientific Initiation Seminar of the Federal
     University of Goias, 2008. Palmas, Brazil.
 
-
+&nbsp;
 
 **JOURNAL REVIEWER**
 
@@ -902,13 +900,13 @@ can be visualized at: http://lattes.cnpq.br/1399785191420919).
 
 -   Tropical Animal Health and Production
 
-
+&nbsp;
 
 **JOURNAL EDITOR**
 
 -   Breeding & Genetics Section, *Animal Journal*
 
-
+&nbsp;
 
 **REVIEWER OF PROJECTS RELATED TO FOMENTATION AGENCIES**
 
@@ -918,7 +916,11 @@ can be visualized at: http://lattes.cnpq.br/1399785191420919).
 >   proposals submitted for grants of the Committee of Science of the Ministry
 >   of Education and Science of the Republic of Kazakhstan.
 
+&nbsp;
+
 ![](media/a4a00e0a690427ff4f7c0f70dd8abfd8.png)
 **Fernando Brito Lopes**
+
 *Curriculum Vitae*
+
 *QR Code*
