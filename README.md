@@ -919,6 +919,7 @@ can be visualized at: http://lattes.cnpq.br/1399785191420919).
 &nbsp;
 
 ![](media/a4a00e0a690427ff4f7c0f70dd8abfd8.png)
+
 **Fernando Brito Lopes**
 
 *Curriculum Vitae*
