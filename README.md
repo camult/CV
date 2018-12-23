@@ -670,7 +670,11 @@ Brasilia, DF: INCT, Brazil, 2010.
 
 **SEMINARS GIVEN**
 
--   *Genomic selection in animals and plants*. Brazilian Agricultural Research
+-   *Genetic Improvement of Livestock: From pedigree-based to genomic selection*.
+    Brazilian Agricultural Research Corporation - Embrapa, Goiania, GO, Brazil, 
+    September 4th, 2018.
+
+-   *Genomic selection in animals and plants*. Brazilian Agricultural Research 
     Corporation - Embrapa, Brasilia, DF, Brazil, January 10th, 2016.
 
 -   *Genomic prediction of meat tenderness using Bayesian regression models*.
