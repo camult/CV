@@ -4,11 +4,9 @@
 
 &nbsp;
 
-**Address:** Brazilian Agricultural Research Corporation (Embrapa) 
-km 12 - Zona Rural GO-462
-Santo Antonio de Goias - GO, 75375-000, Brazil
+**Address:** 305 E Main St, Siloam Springs, AR 72761
 
-**Mobile Phone:** +55 (62) 99242-8390
+**Mobile Phone:** +1 (479) 215-9083
 
 **E-mail:** <camult@gmail.com>
 
@@ -28,7 +26,9 @@ Santo Antonio de Goias - GO, 75375-000, Brazil
 
 **PROFESSIONAL EMPLOYMENT**
 
--   **Researcher**, School of Agrarian and Veterinary Sciences of São Paulo
+-   **Geneticist** Cobb-Vantress, Inc., Siloam Springs, AR, USA
+
+-   **Researcher**, School of Agrarian and Veterinary Sciences of Sao Paulo
     State University (UNESP). Jaboticabal, SP, Brazil (2018)
 
 -   **Researcher**, Brazilian Agricultural Research Corporation (Embrapa),
